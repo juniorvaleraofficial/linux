@@ -433,5 +433,3 @@ sudo mount -a
 - Actualiza con regularidad y revisa los **logs** tras cambios.
 
 ---
-
-¿Quieres que la convierta también a PDF o que genere una versión “solo comandos” tipo chuleta para imprimir?
